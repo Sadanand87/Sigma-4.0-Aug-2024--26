@@ -1,0 +1,12 @@
+.infoBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Make it take the full viewport height */
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+   
+}
